@@ -5,4 +5,4 @@ TinyMCE text editor
 
 ## About
 
-This is my coding notebook site
+This is my text editor site
