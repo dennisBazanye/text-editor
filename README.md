@@ -1,8 +1,8 @@
 # text-editor
 TinyMCE text editor
 
-## [Live CV](http://dennisBazanye.github.io) dennisBazanye.github.io
+## [Demo](http://textedit.azurewebsites.net/) Text Editor
 
 ## About
 
-This is my text editor site
+This is a text editor site.
