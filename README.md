@@ -1,8 +1,6 @@
-# text-editor
+# TinyMCE text editor
 
-TinyMCE text editor
-
-## [Demo](https://etexteditor.azurewebsites.net/) Text Editor
+## [Demo](https://etexteditor.azurewebsites.net/) etexteditor.azurewebsites.net
 
 ## About
 
