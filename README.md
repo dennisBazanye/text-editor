@@ -1,8 +1,9 @@
 # text-editor
+
 TinyMCE text editor
 
-## [Demo](http://textedit.azurewebsites.net/) Text Editor
+## [Demo](https://etexteditor.azurewebsites.net/) Text Editor
 
 ## About
 
-This is a text editor site.
+This is an implementation of TinyMCE text editor.
